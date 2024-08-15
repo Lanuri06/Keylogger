@@ -55,3 +55,13 @@ Casos de Uso
 Advertencias Legales
 
 Este software ha sido desarrollado únicamente con fines educativos y no debe ser utilizado para monitorear teclados sin el consentimiento del usuario. El uso de keyloggers en entornos no autorizados es ilegal y contrario a la ética. El autor no se responsabiliza por el uso indebido de este software.
+
+## Créditos
+
+Este proyecto no hubiera sido posible sin la ayuda y las herramientas de las siguientes personas y recursos:
+
+- **[ChatGPT](https://www.openai.com/)** - Asistencia en la creación del README.
+- **[Documentación de Linux](https://www.kernel.org/doc/html/latest/input/input-programming.html)** - Referencia utilizada para comprender el manejo de eventos de entrada.
+- **Stack Overflow - Plataforma de preguntas y respuestas que proporcionó soluciones a problemas específicos durante el desarrollo.
+- **Clase del profesor DANIEL FERNANDO PALMA LOPEZ de Seguridad Informatica
+- **Companero de clase RYAN MONROY PICAZO que me enseno a usar mas ubuntu
