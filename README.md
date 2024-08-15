@@ -1,5 +1,6 @@
 # Keylogger
 Mis tarea para la materia de Seguridad Informatica c:
+ALAN URIEL MARTÍNEZ SÁNCHEZ
 Keylogger en C
 
 Este proyecto es un keylogger básico escrito en C. El programa captura las pulsaciones de teclas en un sistema Linux y las registra en un archivo de log. Este keylogger se ha creado únicamente con fines educativos y debe usarse en entornos controlados.
