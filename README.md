@@ -62,6 +62,7 @@ Este proyecto no hubiera sido posible sin la ayuda y las herramientas de las sig
 
 - **[ChatGPT](https://www.openai.com/)** - Asistencia en la creación del README.
 - **[Documentación de Linux](https://www.kernel.org/doc/html/latest/input/input-programming.html)** - Referencia utilizada para comprender el manejo de eventos de entrada.
+- ** https://itsfoss.com/es/escribir-compilar-ejecutar-programa-c-ubuntu/** - Referencia usada para compilar en Ubuntu
 - **Stack Overflow - Plataforma de preguntas y respuestas que proporcionó soluciones a problemas específicos durante el desarrollo.
 - **Clase del profesor DANIEL FERNANDO PALMA LOPEZ de Seguridad Informatica
 - **Companero de clase RYAN MONROY PICAZO que me enseno a usar mas ubuntu
